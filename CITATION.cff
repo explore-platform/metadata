@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: App Template
+message: >-
+  If you use this software, please cite it using the metadata from this file.
+type: software
+authors:
+  - given-names: Nick
+    family-names: Cox
+    email: nick.cox@acri-st.fr
+    affiliation: ACRI-st
+    orcid: 'https://orcid.org/0000-0002-7926-4492'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.6670298
+repository-code: 'https://gitlab.acri-cwa.fr/project-explore/templates/template'
+url: 'https://explore-platform.eu'
+repository: ''
+repository-artifact: ''
+abstract: |-
+  This repository provides an App template or blue-print as developed for the EXPLORE project.
+keywords:
+  - EXPLORE
+  - Horizon 2020
+  - galactic
+license: Apache-2.0
+version: v1
+date-released: '2023-07-01'
